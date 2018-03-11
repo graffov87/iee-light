@@ -1,0 +1,19 @@
+{
+  "name": "graffov87/export",
+  "description": "Export Products",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Vitaliy Charnou",
+      "email": "graffov87@gmail.com"
+    },
+
+  ],
+  "require": {
+    "php": "^7.1"
+  },
+  "autoload": {
+    "psr-4": {"Chervit\\Iee\\": "src/Php/"}
+  }
+}
