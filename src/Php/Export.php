@@ -12,11 +12,6 @@ use Zend_Db_Adapter_Pdo_Mysql as Mysql;
 
 class Export extends AbstractDirection
 {
-    public function getListTables()
-    {
-        return $this->conection->listTables();
-    }
-
     public function getData() : array
     {
         $select = $this->conection->select();
