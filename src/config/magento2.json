@@ -1,0 +1,5 @@
+{
+  "path_config": "/../../../../../../app/etc/env.php",
+  "mysql": "db:connection:default",
+  "prefix": "db:table_prefix"
+}

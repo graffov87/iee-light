@@ -1,0 +1,7 @@
+{
+  "platforms": {
+    "Magento2": {
+      "file": "magento2.json"
+    }
+  }
+}
